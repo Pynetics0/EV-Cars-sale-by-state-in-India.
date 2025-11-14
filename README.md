@@ -1,7 +1,7 @@
 🚗 Electric Vehicle Sales Analysis in India
 A comprehensive Power BI dashboard analyzing electric vehicle sales trends across different states in India.
 
-📊 Project Overview
+📊 Project Overview 
 This Power BI report provides detailed insights into:
 
 State-wise EV sales distribution across India
